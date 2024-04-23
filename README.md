@@ -1,2 +1,2 @@
-# C.G.P.A-calculator
-using python script ibuilt a cgpa calculator of (V.T.U) examination
+# S.G.P.A-calculator
+using python script built a sgpa calculator of (V.T.U) examination
