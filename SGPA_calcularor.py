@@ -41,29 +41,3 @@ elif SGPA >99:
 elif SGPA >9:
              print(SGPA/10)                                
     
-        
-    
-
-
-   
-
-
-
-       
-
-
-
-
-
-# list1 = [2, 4, 6, 8]
-# list2 = [1, 3, 5, 7]
-# result = []
-
-# Check if the two lists have the same length
-# if len(list1) == len(list2):
-#     # Loop through the two lists and multiply corresponding elements
-#     for i in range(len(list1)):
-#         result.append(list1[i] * list2[i])
-#     print(result)
-# else:
-#     print("The two lists do not have the same length")
